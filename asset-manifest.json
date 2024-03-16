@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cmsreact/static/js/main.f184e56e.js",
+    "index.html": "/cmsreact/index.html",
+    "main.f184e56e.js.map": "/cmsreact/static/js/main.f184e56e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f184e56e.js"
+  ]
+}
