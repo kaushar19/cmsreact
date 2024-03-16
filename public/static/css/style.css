@@ -1,0 +1,77 @@
+/* React CMS Style Start */
+.cmsMargin {}
+
+.cmsh {
+    font-size: 1rem;
+    background-color: #D86C64;
+    color: #fff;
+    padding: 5px 20px 5px 20px;
+    border-radius: 20px;
+}
+
+.form-mrng {
+    margin: auto;
+}
+
+.cmsCard {
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    transform: translateY(-5px);
+}
+
+.cmsCard:hover {
+    transform: translateY(-12px);
+    box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+    transition: .3s;
+}
+
+.addbtn {
+    background-color: #01baef;
+}
+
+.dltbtn {
+    background-color: #FF6C22;
+}
+
+.mdfbtn {
+    background-color: #527853;
+}
+
+.srchbtn {
+    background-color: #287a28;
+}
+
+.btnText {
+    color: #fff;
+}
+
+.flbtn {
+    background-color: #548383;
+}
+
+.npbtn {
+    background-color: #3590f3;
+}
+
+.card2 {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px 0px;
+}
+
+#clear-btn {
+    background-color: #f91e22;
+}
+
+#clear-btn:hover {
+    background-color: #c02427;
+}
+
+@media only screen and (max-width: 574px) {
+    #resize {
+        margin: 0px 15px 0px 15px;
+    }
+
+    .btnText {
+        font-size: 14px;
+    }
+}
+
+/* React CMS Style End */
